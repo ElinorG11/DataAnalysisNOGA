@@ -1,0 +1,12 @@
+# Versions used for the Scientific Reports revision (Python 3.14.5).
+# Also tested with Python 3.12.12 and these same versions: identical results.
+pandas==3.0.3
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.9.0
+lightgbm==4.6.0
+shap==0.52.0
+matplotlib==3.10.9
+holidays==0.98
+requests==2.34.2
+playwright==1.60.0
